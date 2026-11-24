@@ -1,0 +1,20 @@
+# Ambiente
+.venv/
+.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+
+# marimo
+__marimo__/
+
+# Dados (mantém só a estrutura)
+data/raw/*
+data/processed/*
+!data/**/.gitkeep

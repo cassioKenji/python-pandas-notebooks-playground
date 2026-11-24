@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "marimo-team.vscode-marimo",
+        "charliermarsh.ruff"
+    ],
+    "unwantedRecommendations": [
+        "ms-toolsai.jupyter"
+    ]
+}
